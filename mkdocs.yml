@@ -1,5 +1,5 @@
 site_name: Physics and Mathematics
-theme:
+theme: jekyll-theme-minimal
   name: readthedocs
   highlightjs: true
   hljs_languages:
